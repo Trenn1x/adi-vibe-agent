@@ -19,10 +19,12 @@ pip install -r requirements.txt
 ollama run mistral   # first time pulls model, then keeps running
 python agent.py job_post.txt
 
-Architecture choices
-Decision	Rationale
-Local LLM (Mistral)	Zero cloud cost / works without OpenAI quota
-LangChain-Ollama	Chat interface → easy message structuring
-Single-file CLI	Fastest to audit & extend (wrap in Teams bot on Day 2)
+**Architecture choices**
+
+| Decision | Rationale |
+|----------|-----------|
+| Local LLM (Mistral) | Zero cloud cost / works without OpenAI quota |
+| LangChain-Ollama | Chat interface → easy message structuring |
+| Single-file CLI | Fast to audit & extend (wrap in Teams bot on Day 2) |
 
 Made by Thomas Verdier – more projects on https://github.com/Trenn1x
