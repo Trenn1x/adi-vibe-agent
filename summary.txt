@@ -1,0 +1,21 @@
+Job Post Summary:
+
+1. Mission: The Senior GenAI Engineer's mission is to shadow the VP of Edge AI, automate their workflows using GenAI technology, and create a digital twin "brain" for the VP while evangelizing the process.
+
+2. First-90-Day Goals:
+   - Day 1-30: Observe and automate repetitive tasks by creating micro-agents.
+   - Day 31-60: Scale the agents, reduce human touchpoints by more than 25%, and build tech radar and team tracker agents.
+   - Day 61-90: Externalize the best agents as templates, produce public demos or open-source repos, and start building the VP's digital twin.
+
+3. Daily Stack: The engineer will live-code GenAI agents in Python/TypeScript using tools like LangChain, OpenAI, etc., fine-tune and orchestrate LLMs, integrate with enterprise APIs, maintain a metrics dashboard, and co-write technical blogs with the Communications team.
+
+4. Success Metrics:
+   - 5 production agents live by day 30.
+   - 30% reduction in VP calendar load by day 90.
+   - 2 external media features or conference demos by month 6.
+
+5. Must-Haves: A track record of shipping GenAI products, mastery of GenAI and agent frameworks, rapid full-stack micro-site building skills, comfort in a fast-moving executive environment, storytelling abilities, and the ability to work remotely in the VP's time zone.
+
+6. Nice-to-Haves: Experience reverse-engineering personal workflows or building AI copilots, familiarity with productivity hacks, prior startup founding engineer experience, and knowledge of enterprise security & compliance for LLM rollouts.
+
+7. Time Zone: The role is based in San Jose (CA, USA) or Limerick (Ireland), but the applicant can work remotely and must be willing to work in whichever time zone the VP is in, mostly the CA time zone.
